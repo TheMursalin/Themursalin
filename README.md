@@ -14,12 +14,6 @@
 
 ## 🕵️ Who Am I?
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-🔴 🟡 🟢 &nbsp; `zsh — mursalin@kali: ~`
-
 ```bash
 ┌──(mursalin㉿kali)-[~]
 └─$ cat about_me.json
@@ -27,48 +21,24 @@
 
 ```json
 {
-  "name"       : "Mursalin Molla",
-  "role"       : "Penetration Tester & Security Researcher",
-  "location"   : "Kolkata, India 🇮🇳",
-  "open_to"    : ["Full-Time Roles", "Freelance VAPT",
-                  "Bug Bounty Collaboration"],
-  "experience" : "Security Analyst Intern @ Craw Cyber Security (6 months)",
-  "certs"      : ["OSCP — In Progress 🔒", "AWS Associate ☁️"],
-  "tools_built": ["WebScout — Web Recon & CVE CLI Tool",
-                  "BAC Hunter — Broken Access Control Suite"],
-  "motto"      : "Break things ethically. Fix things responsibly. 🎯"
+  "name"         : "Mursalin Molla",
+  "role"         : "Penetration Tester & Security Researcher",
+  "location"     : "Kolkata, India 🇮🇳",
+  "open_to"      : ["Full-Time Roles", "Freelance VAPT", "Bug Bounty Collaboration"],
+  "experience"   : "Security Analyst Intern @ Craw Cyber Security (6 months)",
+  "certs"        : ["OSCP — In Progress 🔒", "AWS Solutions Architect Associate ☁️"],
+  "achievements" : [
+    "HTB Global Rank #899 out of 2M+ users 🔥",
+    "TryHackMe Top 8% Worldwide 🌍",
+    "100+ CTFs Solved 🚩",
+    "Responsible Disclosures — Grammarly, (HackerOne) 🐛"
+  ],
+  "tools_built"  : ["WebScout — Web Recon & CVE CLI Tool", "BAC Hunter — Broken Access Control Suite"],
+  "motto"        : "Break things ethically. Fix things responsibly. 🎯"
 }
 ```
 
-![Status](https://img.shields.io/badge/●_Open_to_Work-00ff41?style=flat-square&labelColor=0d1117)
-![OSCP](https://img.shields.io/badge/⚡_OSCP_Prep-ffa657?style=flat-square&labelColor=0d1117)
-![AWS](https://img.shields.io/badge/☁_AWS_In_Progress-58a6ff?style=flat-square&labelColor=0d1117)
-
-> 💡 Open to cybersecurity roles — **[📄 View Resume →](https://drive.google.com/file/d/1syQrJmBCYSKzFyVV6nnckFPumtjCd0lB/view?usp=sharing)**
-
-</td>
-<td width="45%" valign="top">
-
-### 🏆 `hall_of_fame.log`
-
-| | |
-|:--|--:|
-| 🔥 HTB Global Rank | **#899 / 2M+ users** |
-| 🌍 TryHackMe | **Top 8% Worldwide** |
-| 🚩 CTFs Solved | **100+ Challenges** |
-| 🐛 Bug Disclosures | **Grammarly** |
-| 🛡️ Internship | **Craw Security (6 months)** |
-| 📝 HTB Writeups | **13+ Machines on GitHub** |
-
-<br/>
-
-> 🟢 Currently open to cybersecurity roles
-> 🟠 OSCP certification in progress
-> 🔵 Dropping HTB writeups on GitHub — follow!
-
-</td>
-</tr>
-</table>
+> 💡 I'm currently open to cybersecurity roles. **[View my resume →](https://drive.google.com/file/d/1syQrJmBCYSKzFyVV6nnckFPumtjCd0lB/view?usp=sharing)**
 
 ---
 
@@ -101,6 +71,7 @@
 |---|---|
 | 🐱 GitHub Writeups | **[github.com/TheMursalin](https://github.com/TheMursalin)** — ⭐ Follow! |
 | 🔐 HTB Blog | [mursalin4cyber.blogspot.com](https://mursalin4cyber.blogspot.com) |
+
 
 ---
 
@@ -138,7 +109,7 @@
 - 🥷 **HTB Global Rank #899** out of 2M+ users
 - 🌍 **TryHackMe Worldwide Top 8%**
 - 🚩 **100+ CTFs Solved** across multiple platforms
-- 🐛 **Responsible Disclosures** — Grammarly (Information Disclosure) 
+- 🐛 **Responsible Disclosures** — Grammarly (Information Disclosure)
 - 🔒 **OSCP** — Currently Preparing
 - ☁️ **AWS Solutions Architect Associate** — In Progress
 
@@ -183,7 +154,7 @@
 |:---:|:---:|:---:|:---:|
 | 🐱 GITHUB | [TheMursalin](https://github.com/TheMursalin) | 🌐 PORTFOLIO | [themursalin.github.io](https://themursalin.github.io) |
 | 💀 HACKTHEBOX | [Rank #899](https://app.hackthebox.com/profile/TheMursalin) | 🔴 TRYHACKME | [Top 8%](https://tryhackme.com/p/TheMursalin) |
-| 🐛 HACKERONE | [Bug Reports](https://hackerone.com/TheMursalin) | 📄 RESUME | [View Here](https://drive.google.com/file/d/1syQrJmBCYSKzFyVV6nnckFPumtjCd0lB/view?usp=sharing) |
+| 🐛 HACKERONE | [Bug Reports](https://hackerone.com/TheMursalinx) | 📄 RESUME | [View Here](https://drive.google.com/file/d/1syQrJmBCYSKzFyVV6nnckFPumtjCd0lB/view?usp=sharing) |
 
 </div>
 
