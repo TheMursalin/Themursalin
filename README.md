@@ -56,7 +56,7 @@
 | 🔥 HTB Global Rank | **#899 / 2M+ users** |
 | 🌍 TryHackMe | **Top 8% Worldwide** |
 | 🚩 CTFs Solved | **100+ Challenges** |
-| 🐛 Bug Disclosures | **Grammarly · ** |
+| 🐛 Bug Disclosures | **Grammarly** |
 | 🛡️ Internship | **Craw Security (6 months)** |
 | 📝 HTB Writeups | **13+ Machines on GitHub** |
 
@@ -101,8 +101,6 @@
 |---|---|
 | 🐱 GitHub Writeups | **[github.com/TheMursalin](https://github.com/TheMursalin)** — ⭐ Follow! |
 | 🔐 HTB Blog | [mursalin4cyber.blogspot.com](https://mursalin4cyber.blogspot.com) |
-| 📖 HackMD Notes | [hackmd.io/@TheMursalin](https://hackmd.io/@TheMursalin) |
-| 🐛 HackerOne | [BAC Report on  Group — #2319586](https://hackerone.com/TheMursalin) |
 
 ---
 
@@ -140,7 +138,7 @@
 - 🥷 **HTB Global Rank #899** out of 2M+ users
 - 🌍 **TryHackMe Worldwide Top 8%**
 - 🚩 **100+ CTFs Solved** across multiple platforms
-- 🐛 **Responsible Disclosures** — Grammarly (Information Disclosure)
+- 🐛 **Responsible Disclosures** — Grammarly (Information Disclosure) 
 - 🔒 **OSCP** — Currently Preparing
 - ☁️ **AWS Solutions Architect Associate** — In Progress
 
@@ -193,7 +191,7 @@
 
 <div align="center">
 
-*"Break things ethically. Fix things responsibly."* — Mursalin 
+*"Break things ethically. Fix things responsibly."* — Mursalin 🎯
 
 </div>
 
