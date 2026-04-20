@@ -71,8 +71,7 @@
 |---|---|
 | 🐱 GitHub Writeups | **[github.com/TheMursalin](https://github.com/TheMursalin)** — ⭐ Follow! |
 | 🔐 HTB Blog | [mursalin4cyber.blogspot.com](https://mursalin4cyber.blogspot.com) |
-| 📖 HackMD Notes | [hackmd.io/@TheMursalin](https://hackmd.io/@TheMursalin) |
-| 🐛 HackerOne | [BAC Report on MTN Group — #2319586](https://hackerone.com/TheMursalin) |
+
 
 ---
 
