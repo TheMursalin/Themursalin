@@ -23,21 +23,22 @@
 ```bash
 ┌──(mursalin㉿kali)-[~]
 └─$ cat about_me.json
-` ` `
+```
 
-` ` `json
+```json
 {
   "name"       : "Mursalin Molla",
   "role"       : "Penetration Tester & Security Researcher",
   "location"   : "Kolkata, India 🇮🇳",
-  "open_to"    : ["Full-Time Roles", "Freelance VAPT", "Bug Bounty Collaboration"],
+  "open_to"    : ["Full-Time Roles", "Freelance VAPT",
+                  "Bug Bounty Collaboration"],
   "experience" : "Security Analyst Intern @ Craw Cyber Security (6 months)",
-  "certs"      : ["OSCP — In Progress 🔒", "AWS Solutions Architect Associate ☁️"],
+  "certs"      : ["OSCP — In Progress 🔒", "AWS Associate ☁️"],
   "tools_built": ["WebScout — Web Recon & CVE CLI Tool",
                   "BAC Hunter — Broken Access Control Suite"],
   "motto"      : "Break things ethically. Fix things responsibly. 🎯"
 }
-` ` `
+```
 
 ![Status](https://img.shields.io/badge/●_Open_to_Work-00ff41?style=flat-square&labelColor=0d1117)
 ![OSCP](https://img.shields.io/badge/⚡_OSCP_Prep-ffa657?style=flat-square&labelColor=0d1117)
@@ -61,17 +62,13 @@
 
 <br/>
 
-> 🟢 Currently open to cybersecurity roles  
-> 🟠 OSCP certification in progress  
+> 🟢 Currently open to cybersecurity roles
+> 🟠 OSCP certification in progress
 > 🔵 Dropping HTB writeups on GitHub — follow!
 
 </td>
 </tr>
 </table>
-
-```
-
-> 💡 I'm currently open to cybersecurity roles. **[View my resume →](https://drive.google.com/file/d/1syQrJmBCYSKzFyVV6nnckFPumtjCd0lB/view?usp=sharing)**
 
 ---
 
