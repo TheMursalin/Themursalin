@@ -38,7 +38,7 @@
 }
 ```
 
-> 💡 I'm currently open to cybersecurity roles. **[View my resume →](https://drive.google.com/file/d/1syQrJmBCYSKzFyVV6nnckFPumtjCd0lB/view?usp=sharing)**
+> 💡 I'm currently open to cybersecurity roles. **[View my resume →](https://drive.google.com/file/d/1V9K4mta-VBrtrr_tF1eeqNw_VNK7r6qm/view?usp=sharing)**
 
 ---
 
