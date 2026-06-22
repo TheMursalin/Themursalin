@@ -22,34 +22,18 @@
 <tr>
 <td width="60%" valign="top">
 
-```bash
-┌──(mursalin㉿kali)-[~]
-└─$ cat about_me.json
-```
-
-```json
-{
-  "name"         : "Mursalin Molla",
-  "role"         : "Penetration Tester & Security Researcher",
-  "location"     : "Kolkata, India 🇮🇳",
-  "education"    : "BCA @ IGNOU (2025 – 2027)",
-  "open_to"      : ["Junior Pentester", "VAPT Analyst", "Security Engineer Roles"],
-  "experience"   : "Security Analyst Intern @ Craw Cyber Security (6 months)",
-  "certs"        : ["OSCP — In Progress 🔒"],
-  "achievements" : [
-    "HTB Global Rank #899 out of 2M+ users 🔥",
-    "TryHackMe Top 8% Worldwide 🌍",
-    "100+ CTFs Solved 🚩",
-    "Responsible Disclosure — Grammarly (HackerOne) 🐛"
-  ],
-  "tools_built"  : [
-    "WebScout — Web Recon & CVE Detection CLI",
-    "BAC Hunter V3 — Broken Access Control Suite",
-    "SSRF Killer v2.0 — SSRF Detection & Exploitation Framework"
-  ],
-  "motto"        : "Break things ethically. Fix things responsibly. 🎯"
-}
-```
+<table>
+<tr><td>🧑‍💻&nbsp;<b>Name</b></td><td>Mursalin Molla</td></tr>
+<tr><td>🛡️&nbsp;<b>Role</b></td><td>Penetration Tester &amp; Security Researcher</td></tr>
+<tr><td>🎓&nbsp;<b>Education</b></td><td>BCA @ IGNOU (2025 – 2027)</td></tr>
+<tr><td>💼&nbsp;<b>Experience</b></td><td>Security Analyst Intern @ Craw Cyber Security (6 months)</td></tr>
+<tr><td>🔒&nbsp;<b>Certification</b></td><td>OSCP — In Progress</td></tr>
+<tr><td>🎯&nbsp;<b>Open To</b></td><td>Junior Pentester · VAPT Analyst · Security Engineer Roles</td></tr>
+<tr><td>🏆&nbsp;<b>Achievements</b></td><td>HTB Global Rank #899 · TryHackMe Top 8% · 100+ CTFs Solved</td></tr>
+<tr><td>🐛&nbsp;<b>Disclosure</b></td><td>Grammarly (HackerOne)</td></tr>
+<tr><td>🚀&nbsp;<b>Tools Built</b></td><td>WebScout · BAC Hunter V3 · SSRF Killer v2.0</td></tr>
+<tr><td>💭&nbsp;<b>Motto</b></td><td><i>"Break things ethically. Fix things responsibly."</i></td></tr>
+</table>
 
 </td>
 <td width="40%" valign="top" align="center">
