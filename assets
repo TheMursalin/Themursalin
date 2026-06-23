@@ -1,1 +1,106 @@
 
+<svg viewBox="0 0 900 24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#00ff41"/>
+      <stop offset="50%" stop-color="#baffd0"/>
+      <stop offset="85%" stop-color="#00ff41"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="tubeGlow" x="-50%" y="-200%" width="200%" height="500%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+  <rect width="900" height="24" fill="#0d1117"/>
+  <rect x="0" y="9" width="900" height="6" fill="url(#lineGrad)" filter="url(#tubeGlow)" opacity="0.9"/>
+  <rect x="0" y="11" width="900" height="2" fill="url(#lineGrad)"/>
+  <circle cx="450" cy="12" r="4" fill="#baffd0" filter="url(#tubeGlow)"/>
+  <circle cx="450" cy="12" r="2" fill="#ffffff"/>
+</svg>
+
+<svg viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="halo2" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#00ff41" stop-opacity="0.35"/>
+      <stop offset="55%" stop-color="#00ff41" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#00ff41" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="textFill2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#baffd0"/>
+      <stop offset="45%" stop-color="#00ff41"/>
+      <stop offset="100%" stop-color="#00b32d"/>
+    </linearGradient>
+    <filter id="softBlur2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <filter id="bigBlur2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <pattern id="grid2" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M0 0H24M0 0V24" stroke="#00ff41" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="130" fill="#060a08"/>
+  <rect width="900" height="130" fill="url(#grid2)"/>
+  <ellipse cx="450" cy="65" rx="420" ry="80" fill="url(#halo2)"/>
+
+  <rect x="6" y="6" width="888" height="118" rx="14" fill="none" stroke="#00ff41" stroke-opacity="0.5" stroke-width="1.5" filter="url(#softBlur2)"/>
+  <rect x="6" y="6" width="888" height="118" rx="14" fill="none" stroke="#00ff41" stroke-opacity="0.8" stroke-width="1"/>
+
+  <text x="450" y="80" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-weight="700" font-size="42" fill="#00ff41" filter="url(#bigBlur2)" opacity="0.8">🤝 LET'S CONNECT</text>
+  <text x="450" y="80" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-weight="700" font-size="42" fill="#00ff41" filter="url(#softBlur2)" opacity="0.9">🤝 LET'S CONNECT</text>
+  <text x="450" y="83" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-weight="700" font-size="42" fill="#003300" opacity="0.8">🤝 LET'S CONNECT</text>
+  <text x="450" y="80" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-weight="700" font-size="42" fill="url(#textFill2)" stroke="#0d1117" stroke-width="0.6">🤝 LET'S CONNECT</text>
+
+  <text x="450" y="108" text-anchor="middle" font-family="Consolas, monospace" font-size="13" fill="#aaffaa" opacity="0.85" letter-spacing="2">// reach out, collaborate, hire</text>
+</svg>
+
+<svg viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="halo" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#00ff41" stop-opacity="0.35"/>
+      <stop offset="55%" stop-color="#00ff41" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#00ff41" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="textFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#baffd0"/>
+      <stop offset="45%" stop-color="#00ff41"/>
+      <stop offset="100%" stop-color="#00b32d"/>
+    </linearGradient>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <filter id="bigBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <filter id="dropDepth" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="3" stdDeviation="0" flood-color="#003300" flood-opacity="0.9"/>
+    </filter>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M0 0H24M0 0V24" stroke="#00ff41" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="130" fill="#060a08"/>
+  <rect width="900" height="130" fill="url(#grid)"/>
+  <ellipse cx="450" cy="65" rx="420" ry="80" fill="url(#halo)"/>
+
+  <rect x="6" y="6" width="888" height="118" rx="14" fill="none" stroke="#00ff41" stroke-opacity="0.5" stroke-width="1.5" filter="url(#softBlur)"/>
+  <rect x="6" y="6" width="888" height="118" rx="14" fill="none" stroke="#00ff41" stroke-opacity="0.8" stroke-width="1"/>
+
+  <!-- big halo glow text pass -->
+  <text x="450" y="80" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-weight="700" font-size="42" fill="#00ff41" filter="url(#bigBlur)" opacity="0.8">🐍 CONTRIBUTION SNAKE</text>
+
+  <!-- medium glow pass -->
+  <text x="450" y="80" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-weight="700" font-size="42" fill="#00ff41" filter="url(#softBlur)" opacity="0.9">🐍 CONTRIBUTION SNAKE</text>
+
+  <!-- depth shadow layer (3D effect) -->
+  <text x="450" y="83" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-weight="700" font-size="42" fill="#003300" opacity="0.8">🐍 CONTRIBUTION SNAKE</text>
+
+  <!-- crisp top layer -->
+  <text x="450" y="80" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-weight="700" font-size="42" fill="url(#textFill)" stroke="#0d1117" stroke-width="0.6">🐍 CONTRIBUTION SNAKE</text>
+
+  <text x="450" y="108" text-anchor="middle" font-family="Consolas, monospace" font-size="13" fill="#aaffaa" opacity="0.85" letter-spacing="2">// daily commits eating the contribution grid</text>
+</svg>
