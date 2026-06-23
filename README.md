@@ -151,7 +151,7 @@ Star ⭐ this profile and **[follow @TheMursalin](https://github.com/TheMursalin
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=TheMursalin&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=TheMursalin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMursalin&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
 
 <br/>
@@ -168,19 +168,27 @@ Star ⭐ this profile and **[follow @TheMursalin](https://github.com/TheMursalin
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00ff41&height=2&width=900" width="100%"/>
+<!-- ===== GLOW DIVIDER ===== -->
+<img src="https://raw.githubusercontent.com/TheMursalin/TheMursalin/main/assets/glow-divider.svg" width="100%"/>
 
-## 🐍 Contribution Snake
+<!-- ===== CONTRIBUTION SNAKE (glow header + fixed snake embed) ===== -->
+<img src="https://raw.githubusercontent.com/TheMursalin/TheMursalin/main/assets/snake-header-glow.svg" width="100%"/>
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/TheMursalin/TheMursalin/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheMursalin/TheMursalin/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheMursalin/TheMursalin/output/github-contribution-grid-snake.svg" />
+  <img alt="Mursalin's contribution snake" src="https://raw.githubusercontent.com/TheMursalin/TheMursalin/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00ff41&height=2&width=900" width="100%"/>
+<!-- ===== GLOW DIVIDER ===== -->
+<img src="https://raw.githubusercontent.com/TheMursalin/TheMursalin/main/assets/glow-divider.svg" width="100%"/>
 
-## 🤝 Let's Connect
+<!-- ===== LET'S CONNECT (glow header) ===== -->
+<img src="https://raw.githubusercontent.com/TheMursalin/TheMursalin/main/assets/connect-header-glow.svg" width="100%"/>
 
 <div align="center">
 
