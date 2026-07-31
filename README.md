@@ -48,6 +48,14 @@ Open To    : Junior Pentester · VAPT Analyst · Remote / International Roles
 Motto      : "Break things ethically. Fix things responsibly."
 ```
 
+<!-- NEW: Resume download badge -->
+<br/>
+<div align="center">
+  <a href="https://drive.google.com/uc?export=download&id=1k2mEkpX7po5sS99LPCXv69l6-EPTNU-B">
+    <img src="https://img.shields.io/badge/📄_Download_Resume-00ff41?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0d1117"/>
+  </a>
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00ff41&height=2&width=900" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Current Ops
@@ -270,3 +278,7 @@ mursalin@kali:~$ echo $MOTTO
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:0d1117&height=130&section=footer&text=Happy%20Hacking%20%F0%9F%90%A7&fontSize=24&fontColor=00ff41&fontAlignY=70" width="100%"/>
+```
+
+The badge uses the direct download link (auto‑downloads the PDF).  
+Feel free to move it elsewhere if you prefer – I placed it right after the `whoami` details for maximum visibility.
