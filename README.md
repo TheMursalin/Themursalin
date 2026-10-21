@@ -14,24 +14,45 @@ I break web apps, then teach others how to do it responsibly. Web/network pentes
 
 <table>
   <tr>
-    <td align="left" valign="middle"><strong>🧠 Languages</strong></td>
+    <td align="left" valign="middle"><strong>🧠 Language</strong></td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=python,bash,js,html,css&theme=dark" alt="languages" />
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
     </td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><strong>🕵️ Pentesting</strong></td>
+    <td align="left" valign="middle"><strong>🕵️ Web & Network Pentesting</strong></td>
     <td align="left" valign="middle">
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
       <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
       <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+      <img src="https://img.shields.io/badge/Nikto-C0392B?style=for-the-badge" alt="Nikto" />
+      <img src="https://img.shields.io/badge/SQLMap-1F2937?style=for-the-badge" alt="SQLMap" />
+      <img src="https://img.shields.io/badge/FFUF-00ADD8?style=for-the-badge" alt="FFUF" />
+      <img src="https://img.shields.io/badge/Amass-0B7285?style=for-the-badge" alt="Amass" />
     </td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><strong>🧰 Other Tools</strong></td>
+    <td align="left" valign="middle"><strong>🏴‍☠️ Privilege Escalation & AD</strong></td>
     <td align="left" valign="middle">
-      Nikto · SQLMap · BloodHound · FFUF · Amass · LinPEAS · WinPEAS · Hashcat · John
+      <img src="https://img.shields.io/badge/BloodHound-D32F2F?style=for-the-badge" alt="BloodHound" />
+      <img src="https://img.shields.io/badge/LinPEAS-2E7D32?style=for-the-badge" alt="LinPEAS" />
+      <img src="https://img.shields.io/badge/WinPEAS-0078D4?style=for-the-badge" alt="WinPEAS" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"><strong>🔑 Password Cracking</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://img.shields.io/badge/Hashcat-8B1A1A?style=for-the-badge" alt="Hashcat" />
+      <img src="https://img.shields.io/badge/John_the_Ripper-6A1B9A?style=for-the-badge" alt="John the Ripper" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"><strong>🎯 Practice Platforms</strong></td>
+    <td align="left" valign="middle">
+      <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
+      <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+      <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
     </td>
   </tr>
   <tr>
