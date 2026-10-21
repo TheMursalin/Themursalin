@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mursalin
 
-🛡️ **Cyber Security Trainer | Bug Bounty Hunter | VAPT Professional | Security Tool Builder**
+🛡️ **Cyber Security Engineer | Bug Bounty Hunter | VAPT Professional | Security Tool Builder**
 I break web apps, then teach others how to do it responsibly. Web/network pentesting (OWASP Top 10) sharpened through 150+ CTFs, a responsibly disclosed bug in Grammarly, and open-source offensive tooling. Currently training the next batch of security professionals while preparing for OSCP+.
 
 📍 Kolkata ✈️ Pune
