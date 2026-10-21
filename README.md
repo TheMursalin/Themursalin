@@ -92,7 +92,7 @@ I break web apps, then teach others how to do it responsibly. Web/network pentes
 - Mentor students on BloodHound, FFUF, SQLMap, Hashcat, and guide them through HTB and TryHackMe challenges.
 - Bridge theory and practice with live CVE walkthroughs and real-world pentest case studies.
 
-### 🔹 Security Analyst Intern & Trainer – Craw Security *(Sep 2025 – Mar 2026, New Delhi)*
+### 🔹 Security Analyst intern – Craw Security *(Sep 2025 – Mar 2026, New Delhi)*
 - Worked on real-world cybersecurity projects and delivered within deadlines.
 - Practical exposure to threat analysis, vulnerability assessment, and security monitoring.
 - Helped identify and mitigate security risks across systems and networks.
